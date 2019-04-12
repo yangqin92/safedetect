@@ -1,0 +1,27 @@
+﻿生成启动时间为 2018/4/13 15:24:51。
+     1>项目“F:\工作\MFC_safedetect\MFC_safedetect\MFC_safedetect.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Yu"stdafx.h" /Fp"Debug\MFC_safedetect.pch" /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt /D_CRT_SECURE_NO_WARNINGS MFC_safedetectDlg.cpp
+         MFC_safedetectDlg.cpp
+     1>f:\工作\mfc_safedetect\mfc_safedetect\mfc_safedetectdlg.cpp(648): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\工作\mfc_safedetect\mfc_safedetect\mfc_safedetectdlg.cpp(674): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\工作\mfc_safedetect\mfc_safedetect\mfc_safedetectdlg.cpp(684): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\工作\mfc_safedetect\mfc_safedetect\mfc_safedetectdlg.cpp(727): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\工作\mfc_safedetect\mfc_safedetect\mfc_safedetectdlg.cpp(744): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\工作\mfc_safedetect\mfc_safedetect\mfc_safedetectdlg.cpp(753): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\工作\mfc_safedetect\mfc_safedetect\mfc_safedetectdlg.cpp(795): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\工作\mfc_safedetect\mfc_safedetect\mfc_safedetectdlg.cpp(816): warning C4018: “<”: 有符号/无符号不匹配
+     1>f:\工作\mfc_safedetect\mfc_safedetect\mfc_safedetectdlg.cpp(827): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\工作\MFC_safedetect\Debug\MFC_safedetect.exe" /INCREMENTAL /NOLOGO opencv_core2412d.lib opencv_highgui2412d.lib opencv_imgproc2412d.lib opencv_legacy2412d.lib opencv_ml2412d.lib opencv_objdetect2412d.lib opencv_ts2412d.lib opencv_video2412d.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\Include\Manifest\dpiaware.manifest" /Debug /PDB:"F:\工作\MFC_safedetect\Debug\MFC_safedetect.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\工作\MFC_safedetect\Debug\MFC_safedetect.lib" /MACHINE:X86 Debug\MFC_safedetect.res
+         Debug\CvvImage.obj
+         Debug\MFC_safedetect.obj
+         Debug\MFC_safedetectDlg.obj
+         Debug\mscomm1.obj
+         Debug\stdafx.obj
+         MFC_safedetect.vcxproj -> F:\工作\MFC_safedetect\Debug\MFC_safedetect.exe
+     1>已完成生成项目“F:\工作\MFC_safedetect\MFC_safedetect\MFC_safedetect.vcxproj”(Build 个目标)的操作。
+
+已成功生成。
+
+已用时间 00:00:05.62
